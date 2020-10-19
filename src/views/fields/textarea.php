@@ -1,3 +1,4 @@
+<?php // Empty tag for PHP-Scoper ?>
 <textarea
     class="regular-text"
     id="<?php echo $args['slug']; ?>"

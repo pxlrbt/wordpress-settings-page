@@ -1,4 +1,4 @@
-
+<?php // Empty tag for PHP-Scoper ?>
 <?php wp_editor($value, $args['slug']); ?>
 
 <?php if (isset($field->args['description'])) : ?>

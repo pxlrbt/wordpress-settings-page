@@ -1,4 +1,4 @@
-
+<?php // Empty tag for PHP-Scoper ?>
 <select id="<?php echo $args['slug']; ?>" name="<?php echo $args['slug']; ?>">
     <?php foreach ($field->args['options'] as $key => $name): ?>
         <option value="<?php echo $key; ?>" <?php if ($key == $value): ?>selected<?php endif; ?>>

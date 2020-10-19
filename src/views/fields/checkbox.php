@@ -1,4 +1,4 @@
-
+<?php // Empty tag for PHP-Scoper ?>
 <input type="checkbox"
    id="<?php echo $args['slug']; ?>"
    name="<?php echo $args['slug']; ?>"

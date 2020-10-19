@@ -1,7 +1,6 @@
 <?php
 
 namespace pxlrbt\Wordpress\SettingsPage;
-
 class SettingsPage
 {
     protected $slug;

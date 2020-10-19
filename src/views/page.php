@@ -1,3 +1,4 @@
+<?php // Empty tag for PHP-Scoper ?>
 <div class="wrap">
     <h1>Einstellungen › <?php echo esc_html(get_admin_page_title()); ?></h1>
 
